@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\resources",
+    "\\src",
+    "\\src\\action",
+    "\\src\\resources",
+    "\\src\\resources\\img",
+    "\\src\\services",
+    "\\src\\store"
+  ],
+  "SelectedNode": "\\src\\resources\\img\\offer-bg.png",
+  "PreviewInSolutionExplorer": false
+}

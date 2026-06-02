@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\offer-bg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\resources\\img\\offer-bg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\b2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\resources\\img\\b2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\b1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\resources\\img\\b1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\banner-voucher.jfif||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\resources\\img\\banner-voucher.jfif||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\applyVoucher.jfif||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\resources\\img\\applyVoucher.jfif||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\action\\ShopCartAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\action\\ShopCartAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "offer-bg.png",
+              "DocumentMoniker": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\offer-bg.png",
+              "RelativeDocumentMoniker": "src\\resources\\img\\offer-bg.png",
+              "ToolTip": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\offer-bg.png",
+              "RelativeToolTip": "src\\resources\\img\\offer-bg.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-02T05:49:37.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "b2.jpg",
+              "DocumentMoniker": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\b2.jpg",
+              "RelativeDocumentMoniker": "src\\resources\\img\\b2.jpg",
+              "ToolTip": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\b2.jpg",
+              "RelativeToolTip": "src\\resources\\img\\b2.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-02T05:49:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "b1.jpg",
+              "DocumentMoniker": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\b1.jpg",
+              "RelativeDocumentMoniker": "src\\resources\\img\\b1.jpg",
+              "ToolTip": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\b1.jpg",
+              "RelativeToolTip": "src\\resources\\img\\b1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-02T05:49:27.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "banner-voucher.jfif",
+              "DocumentMoniker": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\banner-voucher.jfif",
+              "RelativeDocumentMoniker": "src\\resources\\img\\banner-voucher.jfif",
+              "ToolTip": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\banner-voucher.jfif",
+              "RelativeToolTip": "src\\resources\\img\\banner-voucher.jfif",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGLSURBVDhP5ZRNS1tBFIafGd02XjeCi9qojR9Fl112I0nFhfgHhJZCoYIKjZ9BxO50k7Y/of0v/RNd\u002BbEzKkkjbXHOnRwXN7nFkUgaXAg\u002BMJs573nPOwMzcJ\u002Boarj18DAAO5trbxrGfAWiUNAZ5gjb\u002BLS/X/4OQGlr47BSOVXnXFerUjnV0tZ6FcAmEzQbRf03Zv4Pzd4IoDcsthj7cshxVUAVUNAGqGJUeRb18nNzImyBfwlvc3zxF7xgGoKJHdYL1gvGO07Of4fylLaG1gs2TsyMF0wsxOWXDGd6sF5CeUpbwySVw8aCjR0mdgxs/ODkrI6JXShPucMwSWW9sPxqkJ3Zp9Qv/yR73Ri27mu9MMTeQo6VwgjF18PNtF0eeTWf5UN\u002BlF8OLh28z\u002BdYKjzH\u002Bi4SlubHeTczRv0K6q65rmBxZpLiwnQoT2lvODfE6BMhlxHGM8JEn/AiEqb6hd35kVCe0noptVqtGtY6JunVI1qfw/Z28a1RswcmG4o7Q2tq9OPBwedvYeURcA0B89nfGY\u002B/5gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-06-02T05:49:24.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "applyVoucher.jfif",
+              "DocumentMoniker": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\applyVoucher.jfif",
+              "RelativeDocumentMoniker": "src\\resources\\img\\applyVoucher.jfif",
+              "ToolTip": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\resources\\img\\applyVoucher.jfif",
+              "RelativeToolTip": "src\\resources\\img\\applyVoucher.jfif",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGLSURBVDhP5ZRNS1tBFIafGd02XjeCi9qojR9Fl112I0nFhfgHhJZCoYIKjZ9BxO50k7Y/of0v/RNd\u002BbEzKkkjbXHOnRwXN7nFkUgaXAg\u002BMJs573nPOwMzcJ\u002Boarj18DAAO5trbxrGfAWiUNAZ5gjb\u002BLS/X/4OQGlr47BSOVXnXFerUjnV0tZ6FcAmEzQbRf03Zv4Pzd4IoDcsthj7cshxVUAVUNAGqGJUeRb18nNzImyBfwlvc3zxF7xgGoKJHdYL1gvGO07Of4fylLaG1gs2TsyMF0wsxOWXDGd6sF5CeUpbwySVw8aCjR0mdgxs/ODkrI6JXShPucMwSWW9sPxqkJ3Zp9Qv/yR73Ri27mu9MMTeQo6VwgjF18PNtF0eeTWf5UN\u002BlF8OLh28z\u002BdYKjzH\u002Bi4SlubHeTczRv0K6q65rmBxZpLiwnQoT2lvODfE6BMhlxHGM8JEn/AiEqb6hd35kVCe0noptVqtGtY6JunVI1qfw/Z28a1RswcmG4o7Q2tq9OPBwedvYeURcA0B89nfGY\u002B/5gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-06-02T05:49:17.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopCartAction.js",
+              "DocumentMoniker": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\action\\ShopCartAction.js",
+              "RelativeDocumentMoniker": "src\\action\\ShopCartAction.js",
+              "ToolTip": "C:\\Users\\zzhuy\\Downloads\\FE\\FE\\src\\action\\ShopCartAction.js",
+              "RelativeToolTip": "src\\action\\ShopCartAction.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-02T05:48:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
